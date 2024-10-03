@@ -1,5 +1,5 @@
 ###week03_ex1
-fig, ((ax1, ax2), (ax3, ax4), (ax5,ax6), (ax7, ax8), (ax9, ax10)) = plt.subplots(5,2, figsize=(10, 15))
+fig, ((ax1, ax2), (ax3, ax4), (ax5,ax6), (ax7, ax8), (ax9, ax10)) = plt.subplots(5, 2, figsize=(10, 15))
 ###week03_ex1_end
 
 ###week03_ex2
@@ -117,7 +117,7 @@ plt.xscale('log')
 lgnd = plt.legend(loc="upper left", labels=continents)
 # d*
 for i in range(len(continents)):
-    lgnd.legendHandles[i]._sizes = [50]
+    lgnd.legend_handles[i]._sizes = [50]
 
 # e
 largest_population = co2_vs_gdp_by_continent[co2_vs_gdp_by_continent['Total population (Gapminder)'] == max(co2_vs_gdp_by_continent['Total population (Gapminder)'])].iloc[0]['Entity']
