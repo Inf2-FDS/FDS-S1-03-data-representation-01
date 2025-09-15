@@ -1,3 +1,5 @@
+# 15 September 2025: Please note that this lab is being revised - please come back in Week 3!
+
 # FDS Labs
 
 ## Running the labs using Noteable (supported)
