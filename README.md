@@ -1,4 +1,4 @@
-# 15 September 2025: Please note that this lab is being revised - please come back in Week 3!
+# 27 September 2025: This lab has been replaced by https://github.com/Inf2-FDS/FDS-S1-03-visualisation-exploratory-data-analysis.git
 
 # FDS Labs
 
